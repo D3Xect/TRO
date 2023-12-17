@@ -1,4 +1,4 @@
-# TRO
+# TRO - Teknik Riset Operasional
 Ujian Akhir Semester 7 Teknik Riset Operasional
 
 Nama  : Dyllan Nicholas Nathaniel
