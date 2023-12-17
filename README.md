@@ -2,7 +2,9 @@
 Ujian Akhir Semester 7 Teknik Riset Operasional
 
 Nama  : Dyllan Nicholas Nathaniel
+
 NIM   : 201011402073
+
 Kelas : 07-TPLP-013
 
 # SCREENSHOT TAMPILAN APLIKASI MATLAB
